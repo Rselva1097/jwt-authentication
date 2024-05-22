@@ -1,0 +1,3 @@
+#Implemented a role based authentication and auditing using spring boot 
+#user can be separated by either ADMIN, USER or etc...
+
